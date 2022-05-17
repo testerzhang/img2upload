@@ -29,6 +29,10 @@ $ nohup ./img2upload &
 
 
 
+## 文章说明
+
+[Markdown图床：typora自定义上传图片到服务器，完美](https://mp.weixin.qq.com/s/ILgLCp1F3HCAOF0_ZiicCA)
+
 
 
 ## 欢迎订阅
