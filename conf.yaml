@@ -1,0 +1,8 @@
+# 启动服务的端口
+port: 5432
+# 存放的本地路径
+store_path: "./uploaded"
+# nginx不带路径
+nginx_url_path: http://127.0.0.1:5432
+# 显示图片:  nginx_url_path后面带的url前缀
+url_prefix: "/uploaded/"
